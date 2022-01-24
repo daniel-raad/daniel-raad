@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Dan 👋
+Welcome to my Github page, below are a few of the things I'm currently working on
 
 <!--
 **daniel-raad/daniel-raad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
