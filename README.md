@@ -1,7 +1,7 @@
 ### Hi there, I'm Dan 👋
 Welcome to my Github page, below are a few of the things I'm currently working on, feel free to check it out :) 
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ...
 - my website @ www.danielraad.co.uk
 - a TikTok scraper which can quickly download and compile videos for you 
 - a chess project which is currently undefined
