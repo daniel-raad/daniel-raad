@@ -6,9 +6,12 @@ Welcome to my Github page, below are a few of the things I'm currently working o
 - a TikTok scraper which can quickly download and compile videos for you 
 - a chess project which is currently undefined
 
+⚡ Certified as:
+- Google Cloud Associate Engineer 
+- Google Cloud Professional Data Engineer
 
 🌱 I’m currently learning ...
-- GCP, practicing for my ACE exam 
+- Kubernetes, practicing for my CKA exam 
 - Javascript for my p5.js work which I have been making 
 - as well as react for the website :D 
 
