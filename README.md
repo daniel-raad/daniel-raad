@@ -9,9 +9,10 @@ Welcome to my Github page, below are a few of the things I'm currently working o
 ⚡ Certified as:
 - Google Cloud Associate Engineer 
 - Google Cloud Professional Data Engineer
+- Certified Kubernetes Administrator
+
 
 🌱 I’m currently learning ...
-- Kubernetes, practicing for my CKA exam 
 - Javascript for my p5.js work which I have been making 
 - as well as react for the website :D 
 
