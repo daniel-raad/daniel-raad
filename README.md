@@ -3,8 +3,8 @@ Welcome to my Github page, below are a few of the things I'm currently working o
 
 🔭 I’m currently working on ...
 - my website @ www.danielraad.co.uk
-- a TikTok scraper which can quickly download and compile videos for you 
 - a chess project which is currently undefined
+- OVA - a workout tracker app... 
 
 ⚡ Certified as:
 - Google Cloud Associate Engineer 
@@ -13,8 +13,8 @@ Welcome to my Github page, below are a few of the things I'm currently working o
 
 
 🌱 I’m currently learning ...
-- Javascript for my p5.js work which I have been making 
-- as well as react for the website :D 
+- React-Native for my OVA application
+- alongside fastapi and strawberry for our graphql backend
 
 
 📫 How to reach me: daniel.trd on instagram, daniel-raad@outlook.com for email 
