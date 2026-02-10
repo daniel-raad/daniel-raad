@@ -2,20 +2,13 @@
 Welcome to my Github page, below are a few of the things I'm currently working on, feel free to check it out :) 
 
 🔭 I’m currently working on ...
+- Conversify 
 - my website @ www.danielraad.co.uk
-- a chess project which is currently undefined
-- OVA - a workout tracker app... 
 
 ⚡ Certified as:
 - Google Cloud Associate Engineer 
 - Google Cloud Professional Data Engineer
 - Certified Kubernetes Administrator
-
-
-🌱 I’m currently learning ...
-- React-Native for my OVA application
-- alongside fastapi and strawberry for our graphql backend
-
 
 📫 How to reach me: daniel.trd on instagram, daniel-raad@outlook.com for email 
 😄 Pronouns: he/him 
